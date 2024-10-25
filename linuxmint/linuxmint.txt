@@ -1,0 +1,55 @@
+# cspell: disable
+
+# URL: https://raw.githubusercontent.com/ArcaneSavant/pkgs-lists/main/linuxmint/linuxmint.txt
+
+# Official Repositories
+
+## ZRAM Swap
+systemd-zram-generator
+
+## Multimedia Support in Linux Mint
+mint-meta-codecs
+
+## Fonts
+fonts-dejavu
+fonts-cascadia-code
+fonts-jetbrains-mono
+
+## Revision Control System
+git
+git-lfs
+
+## Static Site Generator
+hugo
+
+## Image Optimization Utility
+jpegoptim
+optipng
+
+## OpenPGP Private Key Backup Utility
+paperkey
+
+## QR Code Encoder
+qrencode
+
+## QR Code / Bar Code Scanner and Decoder
+zbar-tools
+
+## Shell Parser, Formatter, and Interpreter
+shfmt
+
+## System Information Tool
+neofetch
+
+## Package Installer for Python
+python3-pip
+
+# 3rd Party Repositories
+
+## Text Editor
+### [Code] https://code.visualstudio.com/docs/setup/linux
+code
+
+## Office Suite
+### [OnlyOffice] https://helpcenter.onlyoffice.com/installation/desktop-install-ubuntu.aspx
+onlyoffice-desktopeditors
