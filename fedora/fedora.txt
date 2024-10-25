@@ -1,0 +1,50 @@
+# cspell: disable
+
+# URL: https://raw.githubusercontent.com/ArcaneSavant/pkgs-lists/main/fedora/fedora.txt
+
+# Official Repositories
+
+## Fonts
+dejavu-fonts-all
+cascadia-fonts-all
+jetbrains-mono-fonts-all
+lohit-bengali-fonts
+
+## Revision Control System
+git
+git-lfs
+
+## Static Site Generator
+hugo
+
+## Image Optimization Utility
+jpegoptim
+optipng
+
+## OpenPGP Private Key Backup Utility
+paperkey
+
+## QR Code Encoder
+qrencode
+
+## QR Code / Bar Code Scanner and Decoder
+zbar
+
+## Shell Parser, Formatter, and Interpreter
+shfmt
+
+## System Information Tool
+neofetch
+
+## Package Installer for Python
+python3-pip
+
+# 3rd Party Repositories
+
+## Text Editor
+### [Code] https://code.visualstudio.com/docs/setup/linux
+code
+
+## Office Suite
+### [OnlyOffice] https://helpcenter.onlyoffice.com/installation/desktop-install-rhel.aspx
+onlyoffice-desktopeditors
